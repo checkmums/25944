@@ -1,1 +1,0 @@
-Laboratory 3: only the owner can read and write this file.

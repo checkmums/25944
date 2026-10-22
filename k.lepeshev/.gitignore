@@ -1,7 +1,0 @@
-*
-!*/
-!*.c
-!*.txt
-!.gitignore
-!Makefile
-.vscode/
